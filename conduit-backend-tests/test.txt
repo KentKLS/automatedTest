@@ -1,0 +1,20 @@
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+
+  [30;42;1m PASS [39;49;22m[39m Tests\Unit\UserTest[39m
+  [32;1m✓[39;22m[39m [2mget route key name[22m[39m
+  [32;1m✓[39;22m[39m [2marticles[22m[39m
+  [32;1m✓[39;22m[39m [2mfavourite articles[22m[39m
+  [32;1m✓[39;22m[39m [2mfollowers[22m[39m
+  [32;1m✓[39;22m[39m [2mfollowing[22m[39m
+  [32;1m✓[39;22m[39m [2mdoes user follow another user[22m[39m
+  [32;1m✓[39;22m[39m [2mdoes user follow article[22m[39m
+  [32;1m✓[39;22m[39m [2mset password attribute[22m[39m
+  [32;1m✓[39;22m[39m [2mget j w t identifier[22m[39m
+
+  [30;42;1m PASS [39;49;22m[39m Tests\Feature\ArticleTest[39m
+  [32;1m✓[39;22m[39m [2mshow article[22m[39m
+
+  [37;1mTests:  [39;22m[32;1m10 passed[39;22m
+  [37;1mTime:   [39;22m[39m0.57s[39m
+
