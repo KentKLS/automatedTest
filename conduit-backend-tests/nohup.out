@@ -1602,3 +1602,21 @@ Stack trace:
 #5 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
 #6 {main}
   thrown in /home/quentinsirjean/conduit-backend-tests/vendor/composer/ClassLoader.php on line 571
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+Starting Laravel development server: http://127.0.0.1:8000
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+[Wed Oct 18 16:33:18 2023] Failed to listen on 127.0.0.1:8000 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8001
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+[Wed Oct 18 16:33:19 2023] Failed to listen on 127.0.0.1:8001 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8002
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+[Wed Oct 18 16:33:19 2023] Failed to listen on 127.0.0.1:8002 (reason: Address already in use)
+Starting Laravel development server: http://127.0.0.1:8003
+Cannot load Xdebug - it was already loaded
+Cannot load Xdebug - it was already loaded
+[Wed Oct 18 16:33:20 2023] PHP 8.1.12 Development Server (http://127.0.0.1:8003) started
