@@ -19,12 +19,12 @@ echo "          -h                  | To display the help"
 exit 1
 fi
 
-    cd ~/conduit-backend-tests
+    cd ~/automatedTest/conduit-backend-tests
     php artisan migrate:fresh --seed
     php artisan test --without-tty --colors=never | tee $resultFile
     php artisan migrate:fresh --seed
     php artisan serve --host=127.0.0.1:8000&
-    cd ~/vue3-realworld-example-app 
+    cd ~/automatedTest/vue3-realworld-example-app 
     npm run build
     npm run serve&
 
